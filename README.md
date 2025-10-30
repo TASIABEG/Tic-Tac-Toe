@@ -21,18 +21,11 @@
 1. Склонировать репозиторий:
 git clone https://github.com/ваш_логин/tic-tac-toe.git
 
-markdown
-Копировать код
 2. Перейти в директорию проекта:
 cd tic-tac-toe
 
-markdown
-Копировать код
 3. Запустить игру:
 python tic_tac_toe.py
-
-markdown
-Копировать код
 
 ## Цели проекта
 - Практика работы с Python, функциями и циклами.
